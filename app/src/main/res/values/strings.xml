@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="label_permissions">permissions</string>
+</resources>
